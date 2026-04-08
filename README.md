@@ -63,7 +63,7 @@ OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS ARISING FROM USE OF THE SERVICE SHA
 
 ### 8. AI-Generated Outputs
 
-The Service uses artificial intelligence and machine learning models trained on de-identified clinical data. AI outputs are probabilistic recommendations, not deterministic results. Model performance may vary based on patient characteristics, biometric measurement quality, and other clinical factors.
+The Service uses artificial intelligence and machine learning models. AI outputs are probabilistic recommendations, not deterministic results. Model performance may vary based on patient characteristics, biometric measurement quality, and other clinical factors.
 
 You acknowledge that:
 - AI models are continuously improved and outputs may change over time
